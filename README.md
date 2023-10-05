@@ -1,4 +1,6 @@
 # yasinyildiz
-Merhaba ben Yasin YILDIZ. 
-15 yıllık hekim, 8 yıllık acil tıp uzmanıyım. 
-Frontend, seo, veri bilimi, istatistik ve wordpress konularında kendimi geliştirmeye çalışıyorum.
+  <ul>
+  <li>Merhaba ben Yasin YILDIZ. </li>
+  <li>15 yıllık <strong>hekim</strong>, 8 yıllık <strong>acil tıp uzmanıyım</strong>.</li>
+  <li><em>Frontend, seo, veri bilimi, istatistik ve wordpress </em> konularında kendimi geliştirmeye çalışıyorum.</li>
+</ul>
